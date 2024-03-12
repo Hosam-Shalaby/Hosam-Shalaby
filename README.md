@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hossam Shalaby Abdelrazek Shalaby</h1>
 <h3 align="center">Mobile Application Developer | Flutter Developer</h3>
 
-- 🔭 I’m currently working on [islami](https://github.com/Hosam-Shalaby/islami_app)
-
 - 🌱 I’m currently learning **Flutter Framework**
 
+- 🔭 I’m currently working on [islami](https://github.com/Hosam-Shalaby/islami_app)
+
 - 🔭 I’m currently working on [To Do](https://github.com/Hosam-Shalaby/todo_app)
+  
+- 🔭 I’m currently working on [Education](https://github.com/Hosam-Shalaby/education_application)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hosam-Shalaby](https://github.com/Hosam-Shalaby)
 
@@ -13,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hossam shalaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam shalaby" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hossam shalaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hossam-shalaby-/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
