@@ -9,6 +9,10 @@
   
 - 🔭 I’m currently working on [Education](https://github.com/Hosam-Shalaby/education_application)
 
+- 🔭 I’m currently working on [Weather](https://github.com/Hosam-Shalaby/weather_app)
+ 
+- 🔭 I’m currently working on [Note](https://github.com/Hosam-Shalaby/note_app)
+
 - 👨‍💻 All of my projects are available at [https://github.com/Hosam-Shalaby](https://github.com/Hosam-Shalaby)
 
 - 📫 How to reach me **hosamshalby1@gmail.com**
