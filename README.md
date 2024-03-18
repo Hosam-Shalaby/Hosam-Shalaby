@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter Framework**
 
-- 🔭 I’m currently working on [islami](https://github.com/Hosam-Shalaby/islami_app)
+- 🔭 I’m currently working on [Islami](https://github.com/Hosam-Shalaby/islami_app)
 
 - 🔭 I’m currently working on [To Do](https://github.com/Hosam-Shalaby/todo_app)
   
