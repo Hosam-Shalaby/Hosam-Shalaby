@@ -17,6 +17,8 @@
 
 - 🔭 I’m currently working on [Salamtak](https://github.com/Hosam-Shalaby/salamtak)
   
+- 🔭 I’m currently working on [Movies](https://github.com/Hosam-Shalaby/Movies)
+  
 - 👨‍💻 All of my projects are available at [https://github.com/Hosam-Shalaby](https://github.com/Hosam-Shalaby)
 
 - 📫 How to reach me **hosamshalby1@gmail.com**
