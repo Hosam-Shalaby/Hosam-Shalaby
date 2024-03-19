@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Islami](https://github.com/Hosam-Shalaby/islami_app)
 
-- 🔭 I’m currently working on [To Do](https://github.com/Hosam-Shalaby/todo_app)
+- 🔭 I’m currently working on [To Do](https://github.com/Hosam-Shalaby/ToDo)
   
 - 🔭 I’m currently working on [Education](https://github.com/Hosam-Shalaby/education_application)
 
