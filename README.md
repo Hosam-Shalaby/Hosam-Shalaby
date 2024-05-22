@@ -16,8 +16,6 @@
 - 🔭 I’m currently working on [Note](https://github.com/Hosam-Shalaby/note_app)
 
 - 🔭 I’m currently working on [News](https://github.com/Hosam-Shalaby/News-app)
-
-- 🔭 I’m currently working on [Salamtak](https://github.com/Hosam-Shalaby/salamtak)
   
 - 🔭 I’m currently working on [Movies](https://github.com/Hosam-Shalaby/Movies)
   
