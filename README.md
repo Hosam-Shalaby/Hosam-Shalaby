@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on [Islami](https://github.com/Hosam-Shalaby/islami_app)
 
 - 🔭 I’m currently working on [E-Commerce](https://github.com/Hosam-Shalaby/E-Commerce)
-- 
+ 
 - 🔭 I’m currently working on [chat-App](https://github.com/Hosam-Shalaby/chat-App)
-- 
+  
 - 🔭 I’m currently working on [To Do](https://github.com/Hosam-Shalaby/ToDo)
   
 - 🔭 I’m currently working on [Weather](https://github.com/Hosam-Shalaby/weather_app)
