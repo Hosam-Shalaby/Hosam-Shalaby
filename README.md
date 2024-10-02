@@ -5,6 +5,8 @@
 
 
 - 🔭 I’m currently working on [E-Commerce](https://github.com/Hosam-Shalaby/E-Commerce)
+  
+- 🔭 I’m currently working on [Movies](https://github.com/Hosam-Shalaby/movies_app_clean_arch)
  
 - 🔭 I’m currently working on [chat-App](https://github.com/Hosam-Shalaby/chat-App)
   
@@ -16,7 +18,6 @@
 
 - 🔭 I’m currently working on [News](https://github.com/Hosam-Shalaby/News-app)
   
-- 🔭 I’m currently working on [Movies](https://github.com/Hosam-Shalaby/Movies)
   
 - 👨‍💻 All of my projects are available at [https://github.com/Hosam-Shalaby](https://github.com/Hosam-Shalaby)
 
